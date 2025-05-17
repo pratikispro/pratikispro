@@ -1,15 +1,14 @@
 # Hi there, I'm Pratik! 👋
 
-**CompSci Student | Open Source Contributor | Python Enthusiast | AI & ML Explorer**
+**CompSci Student | Open Source Contributor | Development Enthusiast | AI & ML Explorer**
 
 ---
 
 ### 🚀 About Me
 - 🎓 I'm currently pursuing Computer Science at **KIIT**.
-- 💻 I'm passionate about **software development**, **data analytics**, and **AI applications**.
+- 💻 I'm passionate about **software development**, **Data Structures**, and **AI applications**.
 - 🌱 I’m currently learning **deep learning**, **machine learning**, and exploring **generative AI**.
-- 🔭 I’m also diving into **web development** with the **MERN stack**.
-- 🎯 In addition, I enjoy solving problems and working with **Python**, **SQL**, and **Power BI**.
+- 🔭 I’m also diving into **FLUTTER Development**.
 
 ---
 
@@ -20,15 +19,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages**: Python, SQL, C, Java (learning), HTML
-- **Data Analysis**: Power BI, Pandas
-- **Machine Learning**: Basic knowledge, working on fraud detection models and deep learning
-- **Web Development**: Just started with the MERN stack
-- **Tools**: Jupyter Notebook, GitHub, BeautifulSoup
-- **Other Skills**: Problem Solving, Data Analytics, Automation
 
----
 
 ### 🌐 Get in Touch
 - GitHub: [pratikispro](https://github.com/pratikispro)
@@ -37,10 +28,9 @@
 
 ---
 
-### ✨ Fun Facts
+### ✨
 - 🗣️ Fluent in **English**, **Hindi**, and **Bengali**.
 - 🎯 Actively learning **GitHub**, and contributed to open source for the first time during **Hacktoberfest**.
-- 🌍 Hailing from **Durgapur, West Bengal, India**.
 
 ---
 
